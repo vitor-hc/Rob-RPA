@@ -9448,9 +9448,9 @@
     "restore": {
       "projectUniqueName": "Processamento de Pedido de Emprestimos",
       "projectName": "Processamento de Pedido de Emprestimos",
-      "projectPath": "E:\\UiPath\\Processamento de Pedido de Emprestimos\\.local",
+      "projectPath": "E:\\UiPath\\RPA\\Processamento de Pedido de Emprestimos\\.local",
       "packagesPath": "C:\\Users\\Vitor Hugo\\.nuget\\packages\\",
-      "outputPath": "E:\\UiPath\\Processamento de Pedido de Emprestimos\\.local"
+      "outputPath": "E:\\UiPath\\RPA\\Processamento de Pedido de Emprestimos\\.local"
     },
     "frameworks": {
       "net461": {

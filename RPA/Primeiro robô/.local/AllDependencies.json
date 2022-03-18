@@ -7570,9 +7570,9 @@
     "restore": {
       "projectUniqueName": "Primeiro robô",
       "projectName": "Primeiro robô",
-      "projectPath": "E:\\UiPath\\Primeiro robô\\.local",
+      "projectPath": "E:\\UiPath\\RPA\\Primeiro robô\\.local",
       "packagesPath": "C:\\Users\\Vitor Hugo\\.nuget\\packages\\",
-      "outputPath": "E:\\UiPath\\Primeiro robô\\.local"
+      "outputPath": "E:\\UiPath\\RPA\\Primeiro robô\\.local"
     },
     "frameworks": {
       "net461": {

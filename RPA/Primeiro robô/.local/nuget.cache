@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uNCP72vCpZtmSY9zC65aL3z8ZhsD5JXbwUdC+xjJ0M6WYtLE7ARuvSaA2Yd4kMEQBIlQPK8S53R/fQwnNMHZNg==",
+  "dgSpecHash": "XybahLvQA9k6G2dPvkDSbltH1q1/wjbk22VXWErm2DcBzQeil+GUS76b1ddKHirXEDWYpjXHzpadcjWrboNlWg==",
   "success": true,
-  "projectFilePath": "E:\\UiPath\\Primeiro robô\\.local\\",
+  "projectFilePath": "E:\\UiPath\\RPA\\Primeiro robô\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Vitor Hugo\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Vitor Hugo\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

@@ -1,0 +1,26 @@
+this*
+Invoice #45321
+Invoice Date: 05/02/2019
+Due Date: 25/02/2019
+Invoiced To
+Some Company LTD - Robotic Automations
+3216 Maple Court, California, MO 63101 USA
+ThisWebHost LTD
+337 Bath Road
+Slough
+Berkshire
+SL1 5P
+United Kingdom
+Description
+Starter Shared Hosting - (28/09/2016 - 27/10/2016)
+Hosting Location: United Kingdom (UK)
+Late Fee (Added 02/10/2016)
+Sub Total
+Credit
+Grand Total
+Total
+$70.00 USD
+$10.00 USD
+$80.00 USD
+$0.00 USD
+$80.00 USD

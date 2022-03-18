@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pUsWOa6u2K56oIdzlOxUtiybcZyrFuLtw8wL9ipdYdeXyw6u9BmWjFNnqgTHdq/nii+nkX5BuaoeYVru+liVEA==",
+  "dgSpecHash": "VsqO/6DecW0h3edRL1MJThIM3nTnEyK6O2dmux6fb88ZyEK2cmfHaFic1DNICWNYLJnywTnhzIWrd7VqRhaZ+g==",
   "success": true,
-  "projectFilePath": "E:\\UiPath\\Processamento de Pedido de Emprestimos\\.local\\",
+  "projectFilePath": "E:\\UiPath\\RPA\\Processamento de Pedido de Emprestimos\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Vitor Hugo\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\Vitor Hugo\\.nuget\\packages\\aforge.genetic\\2.2.5\\aforge.genetic.2.2.5.nupkg.sha512",
