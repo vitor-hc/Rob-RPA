@@ -1,0 +1,39 @@
+Invoice #38645
+
+Invoice Date: 21st Sep 2016 Due Date: 28th Sep 2016
+
+Invoiced To
+
+Some Company LTD - Robotic Automations
+
+3216 Maple Court, California, MO 63101 USA
+
+Description Starter Shared Hosting - (28/09/2016 - 27/10/2016) Hosting Location: United Kingdom (UK)
+
+Late Fee (Added 02/10/2016)
+
+ThisWebHost LTD 337 Bath Road Slough Berkshire SL1 5P United Kingdom
+
+Total $30.00 USD
+
+$10.00 USD
+
+Sub Total     $40.00 USD
+Credit        $0.00 USD 
+Grand Total   $40.00 USD
+
+Transactions
+
+Transaction Date 4th Oct 2016
+
+Gateway Wire Transfer
+
+Transaction ID 44M54677JH991194L
+
+Amount $40.00 USD
+
+Balance $0.00 USD
+
+PDF Generated on 4th Oct 2016
+
+PAID
